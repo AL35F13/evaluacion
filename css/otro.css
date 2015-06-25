@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+p
+{
+	text-align:justify;
+	color:#FFF;
+}
+
+h1
+{
+	letter-spacing:1.1em; 
+	text-shadow: 2px 2px 4px #000000;
+}
+
+h2
+{
+	text-shadow: 2px 2px 4px #000000;
+}
